@@ -105,7 +105,7 @@ export default function Leftpanel() {
         <span
           style={{ marginLeft: "0.8vw", fontWeight: "400", fontSize: "1.3vw" }}
         >
-          Send
+          Sent
         </span>
       </div>
     </div>
